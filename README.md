@@ -17,6 +17,7 @@ Currently, the primary language files are housed inside language-specific direct
 *   **`gameui_<language>.txt`** – Stock Half-Life Game UI strings.
 *   **`serverbrowser_<language>.txt`** – Stock Half-Life Server Browser strings.
 *   **`valve_<language>.txt`** – Stock Half-Life engine/game strings.
+*   **`vgui_<language>.txt`** - Stock VGUI strings.
 *   **`ttt_<language>.txt`** – TTT Classic-specific gameplay and UI strings.
 *   **`storepage.json`** – The text used for the Steam Store page listing (located in the root directory).
 
@@ -36,5 +37,5 @@ If you want to add a language not yet present:
 1. Refer to the list of supported Steam languages: [Steam Localization Languages](https://partner.steamgames.com/doc/store/localization/languages).
 2. Note the type of language support needed:
     *   **Full Platform** languages should provide localizations for achievements (`achievements.vdf`), rich presence (`rich_presence.vdf`), and `storepage.json`.
-    *   **All Other Languages (including ones not supported by Steam!)** are used for all other files (`quickchat/`, `gameui_`, `serverbrowser_`, `valve_`, and `ttt_`).
+    *   **All Other Languages (including ones not supported by Steam!)** are used for all other files (`quickchat/`, `gameui_`, `serverbrowser_`, `valve_`, `vgui_`, and `ttt_`).
 3. Copy the English keys/files as a baseline, add/translate the text, and submit your pull request!
