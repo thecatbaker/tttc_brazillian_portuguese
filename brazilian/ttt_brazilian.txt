@@ -636,7 +636,7 @@
     "TTT_AW_NKT5_TEXT"                  "é pago por cada assassinato. Agora já pode comprar outro iate luxuoso."
     "TTT_AW_NKI1_TITLE"                 "TRAIA ISTO"
     "TTT_AW_NKI1_TEXT"                  "achou um traidor. Atirou num traidor. Fácil."
-    "TTT_AW_NKI2_TITLE"                 "JAPONÊS DA FEDERAL"
+    "TTT_AW_NKI2_TITLE"                 "PEGA UM, PEGA GERAL"
     "TTT_AW_NKI2_TEXT"                  "escoltou dois traidores para o além."
     "TTT_AW_NKI3_TITLE"                 "TRAIDORES CONTAM CARNEIRINHOS?"
     "TTT_AW_NKI3_TEXT"                  "colocou três traidores para dormir."
@@ -738,8 +738,8 @@
     //
 
     // Chat
-    "TTT_TRAITOR_SAY"                   "Dizer (Espectador): %s"
-    "TTT_SAY"                           "Dizer: %s"
+    "TTT_TRAITOR_SAY"                   "Falar (Espectador): %s"
+    "TTT_SAY"                           "Falar: %s"
 
     // AFK and Idle
     "TTT_IDLE_POPUP_TITLE"              "Ausência"
@@ -791,7 +791,7 @@
     "TTT_AK47_DESC"                     "Fuzil de assalto com dano muito alto.\n\nPossui recuo muito alto."
 
     // Silenced AWP
-    "TTT_SILENCEDAWP_NAME"              "AWP silenciado"
+    "TTT_SILENCEDAWP_NAME"              "AWP Silenciada"
     "TTT_SILENCEDAWP_DESC"              "Rifle de precisão AWP com silenciador.\n\nSó tem um tiro.\nn As vítimas não gritarão quando mortas."
 
     // Silenced M4A1
@@ -814,7 +814,7 @@
 
     // Laser Sight
     "TTT_LASERSIGHT_NAME"               "Mira Laser"
-    "TTT_LASERSIGHT_DESC"               "Adds a laser sight to all weapons without a secondary attack.\Significantly reduces weapon spread.\n\nActivate with Secondary Attack."
+    "TTT_LASERSIGHT_DESC"               "Adiciona uma mira laser para todas as armas sem um ataque segundário. Reduz grandemente a dispersão e recuo da arma.\n\nAtivada com o ataque segundário.Adds a laser sight to all weapons without a secondary attack.Significantly reduces weapon spread.\n\nActivate with Secondary Attack."
 
     // Chicken / Spectator Chicken
     "TTT_CHICKEN_SPAWN"                 "Ponto de surgimento de galinhas"
@@ -831,48 +831,48 @@
     "TTT_TUTORIAL_DISGUISER"            "Pressione %s para alternar seu disfarce."
 
     // Game UI
-    // "TTT_GAME_UI_GAME_MENU_DISCORD"       ""
-    // "TTT_GAME_UI_MAIN_MENU_HINT_CREATE_SERVER" ""
-    // "TTT_GAME_UI_HELP"                   ""
-    // "TTT_SETTINGS"                      ""
-    // "TTT_GAME_UI_MAIN_MENU_HINT_QUIT_GAME" ""
-    // "TTT_GAME_UI_MAIN_MENU_HINT_STATS"    ""
+    // "TTT_GAME_UI_GAME_MENU_DISCORD"       "Discord"
+    // "TTT_GAME_UI_MAIN_MENU_HINT_CREATE_SERVER" "Junte ao servidor do Discord de TTT Classic!"
+    // "TTT_GAME_UI_HELP"                   "Ajuda"
+    // "TTT_SETTINGS"                      "Configurações TTT"
+    // "TTT_GAME_UI_MAIN_MENU_HINT_QUIT_GAME" "Parar de jogar TTT Classic"
+    // "TTT_GAME_UI_MAIN_MENU_HINT_STATS"    "Ver suas conquistas e estatísticas"
 
     // Key bindings
-    // "TTT_DROP_WEAPON"                   ""
-    // "TTT_DROP_AMMO"                     ""
-    // "TTT_TEAM_MESSAGE"                  ""
-    // "TTT_TRAITOR_VOICE_COMMUNICATION"   ""
-    // "TTT_WALK"                          ""
-    // "TTT_EQUIPMENT"                     ""
-    // "TTT_TOGGLE_DISGUISE"                ""
-    // "TTT_TUTORIAL"                      ""
-    // "TTT_RADIO_COMMANDS"                ""
-    // "TTT_TOGGLE_LIVING_MUTE"              ""
-    // "TTT_PING"                          ""
-    // "TTT_EQUIP_SWITCH"                   ""
-    // "TTT_UNARMED"                       ""
+    // "TTT_DROP_WEAPON"                   "Largar arma"
+    // "TTT_DROP_AMMO"                     "Largar munição"
+    // "TTT_TEAM_MESSAGE"                  "Mensagem de time"
+    // "TTT_TRAITOR_VOICE_COMMUNICATION"   "Comunicar entre Traidores"
+    // "TTT_WALK"                          "Andar silenciosamente"
+    // "TTT_EQUIPMENT"                     "Comprar equipamento / Ver histórico da rodada"
+    // "TTT_TOGGLE_DISGUISE"                "Ligar/Desligar o Disfarce"
+    // "TTT_TUTORIAL"                      "Abrir o tutorial"
+    // "TTT_RADIO_COMMANDS"                "Mostrar os comandos de rádio"
+    // "TTT_TOGGLE_LIVING_MUTE"              "Alternar entre jogadores emudecidos enquanto morto"
+    // "TTT_PING"                          "Dar ping no local que está mirando"
+    // "TTT_EQUIP_SWITCH"                   "Mudar para equipamento"
+    // "TTT_UNARMED"                       "Esconder arma"
 
     // Client settings
     "TTT_LANGUAGE"                      "Idioma (Reiniciará o jogo)"
     "TTT_LANGUAGE_STEAM"                "Usar idioma do Steam"
     "TTT_LANGUAGE_ENGLISH"              "Inglês"
     "TTT_LANGUAGE_BRAZILIAN"            "Português (Brasil)"
-    // "TTT_HUD_HISTORY_TIME"                ""
-    // "TTT_DNA_AUTO_SCAN"                   ""
+    // "TTT_HUD_HISTORY_TIME"                "Tempo de display de armas/munção pegas"
+    // "TTT_DNA_AUTO_SCAN"                   "Scan de DNA automático"
     "TTT_RADAR_AUTO"                     "Automatizar"
-    // "TTT_RIGHT_HAND"                     ""
-    // "TTT_GAME_EVENT_TIME"                 ""
-    // "TTT_WEAPON_SWITCHER_SHOW_TIME"        ""
-    // "TTT_MUTE_TEAM"                      ""
-    // "TTT_MUTE_NOBODY"                    ""
+    // "TTT_RIGHT_HAND"                     "Usar modelos de armas destras"
+    // "TTT_GAME_EVENT_TIME"                 "Tempo de display de mensagens do jogo"
+    // "TTT_WEAPON_SWITCHER_SHOW_TIME"        "Tempo de display do selecionador de armas"
+    // "TTT_MUTE_TEAM"                      "Jogadores para emudecer enquanto morto"
+    // "TTT_MUTE_NOBODY"                    "Ninguém"
     "TTT_MUTE_LIVING"                    "Jogadores vivos emudecidos"
     "TTT_MUTE_ALL"                       "Todos emudecidos"
-    // "TTT_MUTE_SPECTATORS"                ""
-    // "TTT_CUSTOM_CROSSHAIR_COLOR"          ""
-    // "TTT_CROSSHAIR_COLOR_RED"             ""
-    // "TTT_CROSSHAIR_COLOR_GREEN"           ""
-    // "TTT_CROSSHAIR_COLOR_BLUE"            ""
+    // "TTT_MUTE_SPECTATORS"                "Espectadores"
+    // "TTT_CUSTOM_CROSSHAIR_COLOR"          "Ativar cor de mira customizada"
+    // "TTT_CROSSHAIR_COLOR_RED"             "Cor da mira vermelha (0-255)"
+    // "TTT_CROSSHAIR_COLOR_GREEN"           "Cor da mira verde (0-255)"
+    // "TTT_CROSSHAIR_COLOR_BLUE"            "Cor da mira azul (0-255)"
     // "TTT_CROSSHAIR_OPACITY"              ""
     // "TTT_CROSSHAIR_SIZE"                 ""
     // "TTT_CROSSHAIR_THICKNESS"            ""
@@ -888,7 +888,7 @@
     // Achievements and Statistics
     "TTT_ACHIEVEMENT_UNLOCKED"          "%s1 alcançou %s2!"
     "TTT_STATS_LOADING"                 "Carregando..."
-    "TTT_STATS_TITLE"                   "Conquistas && Stats"
+    "TTT_STATS_TITLE"                   "Conquistas && Estatísticas"
     // "TTT_STATS_GLOBAL"                  ""
     // "TTT_STATS_VIEW_FRIEND"              ""
     // "TTT_STATS_MY_STATS"                 ""
