@@ -166,7 +166,7 @@
     "TTT_SEARCH_EYES"                             "Using your detective skills, you identified the last person they saw: %s. The killer, or a coincidence?"
     // Scoreboard
     "TTT_SB_PLAYING"                              "You are playing on "
-    "TTT_SB_MAPCHANGE"                            "Привет  in %d rounds or in %s"
+    "TTT_SB_MAPCHANGE"                            "Map changes in %d rounds or in %s"
     "TTT_SB_MIA"                                  "Missing In Action"
     "TTT_SB_CONFIRMED"                            "Confirmed Dead"
     "TTT_SB_PING"                                 "Ping"
