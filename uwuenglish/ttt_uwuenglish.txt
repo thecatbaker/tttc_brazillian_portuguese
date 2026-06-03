@@ -26,8 +26,8 @@
     "TTT_LIMIT_TIME"                              "Time wimit weached. %s wiww woad soon."
     "TTT_LIMIT_LEFT"                              "%d wound(s) ow %s minyutes wemainying befowe the map changes to %s."
     // Credit awards
-    "TTT_CREDIT_DET_ALL"                          "Detectives, you have been awawded %d equipment cwedit(s) fow youw pewfowmance."
-    "TTT_CREDIT_TR_ALL"                           "Twaitows, you have been awawded %d equipment cwedit(s) fow youw pewfowmance."
+    "TTT_CREDIT_DET_ALL"                          "Detectives, you have been awawded %d equipment cwedit(s) fow youw pewfowmance OWO."
+    "TTT_CREDIT_TR_ALL"                           "Twaitows, you have been awawded %d equipment cwedit(s) fow youw pewfowmance OWO."
     "TTT_CREDIT_KILL"                             "You have weceived %d cwedit(s) fow kiwwing a %s."
     // Karma
     "TTT_KARMA_DMG_FULL"                          "Youw Kawma is %s, so you deaw fuww damage this wound!"
@@ -166,7 +166,7 @@
     "TTT_SEARCH_EYES"                             "Using youw detective skiwws, you identified the wast pewson they saw: %s. The kiwwew, ow a coincidence?"
     // Scoreboard
     "TTT_SB_PLAYING"                              "You awe pwaying on "
-    "TTT_SB_MAPCHANGE"                            "Привет  in %d wounds ow in %s"
+    "TTT_SB_MAPCHANGE"                            "Ending in %d wounds ow in %s"
     "TTT_SB_MIA"                                  "Missing In Action"
     "TTT_SB_CONFIRMED"                            "Confiwmed Dead"
     "TTT_SB_PING"                                 "Ping"
